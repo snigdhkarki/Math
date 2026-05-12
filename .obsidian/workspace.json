@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Derivative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Derivative"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "b9841a714f6facff",
   "lastOpenFiles": [
-    "Derivative.md",
     "index.md",
+    "Derivatives.md",
+    "Derivative.md",
     "Integration.md",
     "Infinite Series.md",
     "Matrix.md",
@@ -191,7 +192,6 @@
     "First Order Differential Equation.md",
     "Partial Derivative.md",
     "IMG_20260511_093547_770.jpg",
-    "Derivatives.md",
     "Perimeter,_Area,_Volume,_Curvature.md",
     "Trigonometry.md",
     "Taylor Series.md",
