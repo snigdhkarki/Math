@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "Trigonometry.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Trigonometry"
             }
           }
         ]
@@ -182,12 +182,12 @@
   },
   "active": "b9841a714f6facff",
   "lastOpenFiles": [
-    "Series.md",
     "index.md",
+    "Series.md",
     "Differential Equation.md",
+    "Perimeter, Area, Volume, Curvature.md",
     "Integration.md",
     "Derivative.md",
-    "Perimeter, Area, Volume, Curvature.md",
     "Perimeter,_Area,_Volume,_Curvature.md",
     "Differential.md",
     "Vector.md",
