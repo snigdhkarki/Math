@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "Index"
             }
           }
         ]
@@ -185,7 +185,7 @@
   "lastOpenFiles": [
     "Derivative.md",
     "Partial Derivative.md",
-    "Table of Contents.md",
+    "Index.md",
     "IMG_20260511_093353_605.jpg",
     "IMG_20260511_093547_770.jpg",
     "IMG_20260511_093514_287.jpg",
