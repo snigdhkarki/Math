@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integration.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integration"
+              "title": "index"
             }
           }
         ]
@@ -182,20 +182,20 @@
   },
   "active": "b9841a714f6facff",
   "lastOpenFiles": [
+    "Series.md",
+    "Differential Equation.md",
+    "Integration.md",
     "Derivative.md",
     "index.md",
     "Derivatives.md",
-    "Integration.md",
     "Infinite Series.md",
     "Matrix.md",
-    "Differential Equation.md",
     "First Order Differential Equation.md",
     "Partial Derivative.md",
     "IMG_20260511_093547_770.jpg",
     "Perimeter,_Area,_Volume,_Curvature.md",
     "Trigonometry.md",
     "Taylor Series.md",
-    "Series.md",
     "Fourier Series.md",
     "Laplace Transform.md",
     "Series Solution of Differential Equation.md",
