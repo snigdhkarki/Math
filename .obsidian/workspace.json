@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trigonometry.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trigonometry"
+              "title": "index"
             }
           }
         ]
@@ -182,28 +182,40 @@
   },
   "active": "b9841a714f6facff",
   "lastOpenFiles": [
-    "index.md",
     "Series.md",
+    "Fourier Series.md",
+    "Infinite Series.md",
+    "Taylor Series.md",
+    "index.md",
     "Differential Equation.md",
+    "Laplace Transform.md",
+    "Series Solution of Differential Equation.md",
+    "Second Order Differential Equation.md",
+    "First Order Differential Equation.md",
     "Perimeter, Area, Volume, Curvature.md",
     "Integration.md",
+    "Vector Integral.md",
+    "Definite Integral.md",
+    "Indefinite Integral.md",
     "Derivative.md",
-    "Perimeter,_Area,_Volume,_Curvature.md",
-    "Differential.md",
+    "Div, Curl, Grad.md",
+    "Partial Derivative.md",
+    "Derivatives.md",
+    "Limits.md",
+    "Matrix.md",
     "Vector.md",
     "Trigonometry.md",
-    "Partial Derivative.md",
+    "Perimeter,_Area,_Volume,_Curvature.md",
+    "Differential.md",
     "IMG_20260511_093353_605.jpg",
     "IMG_20260511_093547_770.jpg",
     "IMG_20260511_093514_287.jpg",
     "IMG_20260511_093845_846.jpg",
     "IMG_20260511_093530_050.jpg",
     "IMG_20260510_173815_683.jpg",
-    "Taylor Series.md",
     "IMG_20260510_172453_933.jpg",
     "IMG_20260511_093820_009.jpg",
     "IMG_20260510_173853_706.jpg",
-    "IMG_20260510_173644_622.jpg",
-    "Matrix.md"
+    "IMG_20260510_173644_622.jpg"
   ]
 }
