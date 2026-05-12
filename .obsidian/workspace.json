@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "index"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "faea29d57e625dab",
@@ -181,11 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "b9841a714f6facff",
+  "active": "b598b646ca05b4f0",
   "lastOpenFiles": [
     "Derivative.md",
     "Partial Derivative.md",
-    "Index.md",
+    "index.md",
     "IMG_20260511_093353_605.jpg",
     "IMG_20260511_093547_770.jpg",
     "IMG_20260511_093514_287.jpg",
