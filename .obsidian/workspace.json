@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partial Derivative.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partial Derivative"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 325.5
   },
   "right": {
     "id": "faea29d57e625dab",
@@ -182,33 +182,33 @@
   },
   "active": "b9841a714f6facff",
   "lastOpenFiles": [
-    "Derivatives.md",
+    "Infinite Series.md",
+    "Derivative.md",
+    "Matrix.md",
+    "Differential Equation.md",
+    "First Order Differential Equation.md",
+    "index.md",
     "Partial Derivative.md",
+    "Integration.md",
+    "IMG_20260511_093547_770.jpg",
+    "Derivatives.md",
     "Perimeter,_Area,_Volume,_Curvature.md",
     "Trigonometry.md",
     "Taylor Series.md",
-    "index.md",
     "Series.md",
     "Fourier Series.md",
-    "Infinite Series.md",
-    "Differential Equation.md",
     "Laplace Transform.md",
     "Series Solution of Differential Equation.md",
     "Second Order Differential Equation.md",
-    "First Order Differential Equation.md",
     "Perimeter, Area, Volume, Curvature.md",
-    "Integration.md",
     "Vector Integral.md",
     "Definite Integral.md",
     "Indefinite Integral.md",
-    "Derivative.md",
     "Div, Curl, Grad.md",
     "Limits.md",
-    "Matrix.md",
     "Vector.md",
     "Differential.md",
     "IMG_20260511_093353_605.jpg",
-    "IMG_20260511_093547_770.jpg",
     "IMG_20260511_093514_287.jpg",
     "IMG_20260511_093845_846.jpg",
     "IMG_20260511_093530_050.jpg",
