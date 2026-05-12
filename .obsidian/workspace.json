@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Series.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Series"
             }
           }
         ]
@@ -180,11 +180,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "b598b646ca05b4f0",
+  "active": "b9841a714f6facff",
   "lastOpenFiles": [
-    "Derivative.md",
-    "Partial Derivative.md",
     "index.md",
+    "Differential Equation.md",
+    "Integration.md",
+    "Derivative.md",
+    "Perimeter, Area, Volume, Curvature.md",
+    "Perimeter,_Area,_Volume,_Curvature.md",
+    "Differential.md",
+    "Vector.md",
+    "Trigonometry.md",
+    "Partial Derivative.md",
     "IMG_20260511_093353_605.jpg",
     "IMG_20260511_093547_770.jpg",
     "IMG_20260511_093514_287.jpg",
@@ -196,8 +203,6 @@
     "IMG_20260511_093820_009.jpg",
     "IMG_20260510_173853_706.jpg",
     "IMG_20260510_173644_622.jpg",
-    "Matrix.md",
-    "Vector.md",
-    "Trigonometry.md"
+    "Matrix.md"
   ]
 }
