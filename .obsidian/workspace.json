@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "4ed94d9d7e8f580e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +191,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "b9841a714f6facff",
+  "active": "4ed94d9d7e8f580e",
   "lastOpenFiles": [
+    "Perimeter, Area, Volume, Curvature.md",
+    "Difference Equation.md",
+    "IMG_20260511_093845_846.jpg",
+    "ztrasform.jpeg",
+    "ztrasform 1.jpeg",
+    "index.md",
     "Series.md",
     "Differential Equation.md",
     "Integration.md",
     "Derivative.md",
-    "index.md",
     "Derivatives.md",
     "Infinite Series.md",
     "Matrix.md",
@@ -200,22 +216,17 @@
     "Laplace Transform.md",
     "Series Solution of Differential Equation.md",
     "Second Order Differential Equation.md",
-    "Perimeter, Area, Volume, Curvature.md",
     "Vector Integral.md",
     "Definite Integral.md",
     "Indefinite Integral.md",
     "Div, Curl, Grad.md",
     "Limits.md",
     "Vector.md",
-    "Differential.md",
     "IMG_20260511_093353_605.jpg",
     "IMG_20260511_093514_287.jpg",
-    "IMG_20260511_093845_846.jpg",
     "IMG_20260511_093530_050.jpg",
     "IMG_20260510_173815_683.jpg",
     "IMG_20260510_172453_933.jpg",
-    "IMG_20260511_093820_009.jpg",
-    "IMG_20260510_173853_706.jpg",
-    "IMG_20260510_173644_622.jpg"
+    "IMG_20260511_093820_009.jpg"
   ]
 }

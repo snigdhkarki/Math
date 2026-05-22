@@ -6,6 +6,7 @@
 6) [Integration](Integration.md)  
 7) [Perimeter, Area, Volume, Curvature](Perimeter,%20Area,%20Volume,%20Curvature)  
 8) [Differential Equation](Differential%20Equation)   
-9) [Series](Series.md)  
+9) [Difference Equation](Difference%20Equation)    
+10) [Series](Series.md)  
 
 
